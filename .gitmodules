@@ -1,0 +1,6 @@
+[submodule "quiz-drf"]
+	path = quiz-drf
+	url = https://github.com/huseKivrak/quiz-drf.git
+[submodule "quiz-client"]
+	path = quiz-client
+	url = https://github.com/huseKivrak/quiz-client.git
